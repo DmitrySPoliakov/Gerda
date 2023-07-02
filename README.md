@@ -2,8 +2,8 @@
 ## Обо мне
 #### Привет! Меня зовут {Дмитрий}, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
-Навыки и технологии
-Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello, Miro
+## Навыки и технологии
+####Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello, Miro
 SoapUI, Charles, Git, Chrome DevTools.
 
 # Проекты

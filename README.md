@@ -28,4 +28,5 @@ Charles, Git, Chrome DevTools...
 
 
 ## Контактная информация
-## Email: substroy@mail.ru
+### Email: substroy@mail.ru
+### WhatsApp: +7 910 425-09-46

@@ -20,8 +20,7 @@ Charles, Git, Chrome DevTools...
     полученых в  ходе обучения
 
 #### Ссылка на проект [Курсовая работа](https://docs.google.com/document/d/14jVw0rE6OziwhAPInXQbdiL6hUEo7tDEtvTpQzOA62o/edit?usp=sharing)
-#### логин: dmitryfx1982@gmail.com
-#### пароль: Qazwsxedc1
+
 
 #### Выводы (итоги): Полученные в ходе обучения знания и навыки позволили провести тестирование, 
 выявить явные и скрытые недочёты в работе нового элемента и составить отчёт  
